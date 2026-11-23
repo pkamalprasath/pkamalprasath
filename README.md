@@ -1,6 +1,6 @@
 ### Hi, I'm Kamal — an AI engineer who has spent 13 years working with enterprise clients on their systems and their data.
 
-I build RAG systems and LLM agents in Python, and I measure every change. My background is client delivery at Cognizant for financial services, healthcare, energy and retail clients: gathering requirements, owning a retailer's incident management against its SLA, assessing a mainframe estate for migration to AWS, and putting AI tools to work on client code.
+I build RAG systems and LLM agents in Python, and I measure every change. My background is client delivery at Cognizant — currently on-site with a financial services client in Bristol — for financial services, healthcare, energy and retail clients: running requirements and design workshops, presenting findings to client stakeholders, estimating work for proposals, owning a retailer's incident management against its SLA, assessing a mainframe estate for migration to AWS, and putting AI tools to work on client code.
 📍 Bristol, UK — open to London hybrid · AWS Certified Solutions Architect – Associate · AWS Certified AI Practitioner
 
 ---
