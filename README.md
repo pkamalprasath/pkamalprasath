@@ -21,6 +21,15 @@ LoRA in PyTorch with no PEFT library · an agent loop with no framework · GPT-2
 
 **At work:** designed and built a customer-service AI agent system with input and output guardrails, sized for about 10,000 interactions (pre-production); built two AI tools adopted by 40 colleagues and trained all 40; use Claude, Amazon Q and GitHub Copilot for business-logic extraction, code review and test generation on client code, with every output checked.
 
-**Stack:** Python · FastAPI · LangGraph · Claude & OpenAI APIs · PostgreSQL + pgvector · Redis · Docker · Langfuse · pytest · GitHub Actions · AWS · COBOL · JCL · CICS · DB2 · Oracle
+#### 🧰 Stack
+| | |
+|---|---|
+| **Agentic frameworks** | LangGraph · LangChain · Claude tool use (framework-free agent loops) · MCP (FastMCP) · multi-agent orchestration · human-in-the-loop |
+| **Context engineering** | RAG · hybrid retrieval (pgvector + BM25) · query decomposition · corrective RAG · parent–child chunking · agent memory |
+| **Harness engineering** | LLM-as-judge evaluation harnesses · fixed test sets re-run per change · scenario harnesses for agents · guardrails (Guardrails AI, NeMo, Presidio) · Langfuse tracing |
+| **Models** | Claude · OpenAI · Llama 3.2 via Ollama · PyTorch (LoRA, GPT-2 pretraining) |
+| **Solution architecture** | AWS (Solutions Architect – Associate) · FastAPI services · Redis job queues · PostgreSQL · Docker Compose · GitHub Actions CI · Slack, GitHub & Notion API integrations |
+| **Client delivery** | Requirements & design workshops · estimates for proposals · stakeholder demos & sign-off · incident management & SLAs · Scrum |
+| **Enterprise & legacy** | COBOL · JCL · CICS · DB2 · Oracle · mainframe-to-AWS assessment · data masking (PHI/PII) |
 
 [LinkedIn](https://www.linkedin.com/in/kamalprasath) · pkamalprasath@gmail.com
