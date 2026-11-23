@@ -19,12 +19,12 @@ LoRA in PyTorch with no PEFT library · an agent loop with no framework · GPT-2
 
 ---
 
-**At work:** designed and built a customer-service AI agent system with input and output guardrails, sized for about 10,000 interactions (pre-production); built two AI tools adopted by 40 colleagues and trained all 40; use Claude, Amazon Q and GitHub Copilot for business-logic extraction, code review and test generation on client code, with every output checked.
+**At work:** designed and built a customer-service AI agent system on the OpenAI and Claude SDKs, with input and output guardrails, sized for about 10,000 interactions (pre-production); built two AI tools adopted by 40 colleagues and trained all 40; use Claude, Amazon Q and GitHub Copilot for business-logic extraction, code review and test generation on client code, with every output checked.
 
 #### 🧰 Stack
 | | |
 |---|---|
-| **Agentic frameworks** | LangGraph · LangChain · Claude tool use (framework-free agent loops) · MCP (FastMCP) · multi-agent orchestration · human-in-the-loop |
+| **Agentic frameworks** | OpenAI & Claude SDKs · LangGraph · LangChain · Claude tool use (framework-free agent loops) · MCP (FastMCP) · multi-agent orchestration · human-in-the-loop |
 | **Context engineering** | RAG · hybrid retrieval (pgvector + BM25) · query decomposition · corrective RAG · parent–child chunking · agent memory |
 | **Harness engineering** | LLM-as-judge evaluation harnesses · fixed test sets re-run per change · scenario harnesses for agents · guardrails (Guardrails AI, NeMo, Presidio) · Langfuse tracing |
 | **Models** | Claude · OpenAI · Llama 3.2 via Ollama · PyTorch (LoRA, GPT-2 pretraining) |
