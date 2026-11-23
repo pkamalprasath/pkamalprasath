@@ -19,7 +19,7 @@ LoRA in PyTorch with no PEFT library · an agent loop with no framework · GPT-2
 
 ---
 
-**At work:** built two AI tools adopted by 40 colleagues and trained all 40; use Claude, Amazon Q and GitHub Copilot for business-logic extraction, code review and test generation on client code, with every output checked.
+**At work:** designed and built a customer-service AI agent system with input and output guardrails, sized for about 10,000 interactions (pre-production); built two AI tools adopted by 40 colleagues and trained all 40; use Claude, Amazon Q and GitHub Copilot for business-logic extraction, code review and test generation on client code, with every output checked.
 
 **Stack:** Python · FastAPI · LangGraph · Claude & OpenAI APIs · PostgreSQL + pgvector · Redis · Docker · Langfuse · pytest · GitHub Actions · AWS · COBOL · JCL · CICS · DB2 · Oracle
 
