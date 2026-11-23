@@ -1,8 +1,8 @@
 ### Hi, I'm Kamal — AI Solution Architect & Forward Deployed Engineer, modernising mainframe and legacy systems with AI.
 
-13 years at Cognizant delivering for financial services, healthcare, energy and retail clients — currently on-site with a financial services client in Bristol. I run requirements and design workshops, present findings to client stakeholders, estimate work for proposals, and then build: RAG systems and LLM agents in Python, measured on every change.
-**Modernisation track record:** mainframe-to-AWS assessment · Micro Focus COBOL → NetCOBOL on Linux · AI-assisted business-logic extraction from legacy code · PHI/PII discovery and masking across four database platforms.
-📍 Bristol, UK — open to London hybrid · AWS Certified Solutions Architect – Associate · AWS Certified AI Practitioner
+**13 years at Cognizant**, on-site with clients in financial services, healthcare, energy and retail: I run the workshops, present to stakeholders, estimate the work — then build it.
+**Modernisation:** mainframe-to-AWS assessment · COBOL platform migration · AI-assisted business-logic extraction · PHI/PII masking across four databases.
+📍 Bristol, UK · open to London hybrid · AWS Certified Solutions Architect – Associate · AWS Certified AI Practitioner
 
 ---
 
