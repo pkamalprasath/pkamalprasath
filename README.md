@@ -1,6 +1,7 @@
-### Hi, I'm Kamal — an AI engineer who has spent 13 years working with enterprise clients on their systems and their data.
+### Hi, I'm Kamal — AI Solution Architect & Forward Deployed Engineer, modernising mainframe and legacy systems with AI.
 
-I build RAG systems and LLM agents in Python, and I measure every change. My background is client delivery at Cognizant — currently on-site with a financial services client in Bristol — for financial services, healthcare, energy and retail clients: running requirements and design workshops, presenting findings to client stakeholders, estimating work for proposals, owning a retailer's incident management against its SLA, assessing a mainframe estate for migration to AWS, and putting AI tools to work on client code.
+13 years at Cognizant delivering for financial services, healthcare, energy and retail clients — currently on-site with a financial services client in Bristol. I run requirements and design workshops, present findings to client stakeholders, estimate work for proposals, and then build: RAG systems and LLM agents in Python, measured on every change.
+**Modernisation track record:** mainframe-to-AWS assessment · Micro Focus COBOL → NetCOBOL on Linux · AI-assisted business-logic extraction from legacy code · PHI/PII discovery and masking across four database platforms.
 📍 Bristol, UK — open to London hybrid · AWS Certified Solutions Architect – Associate · AWS Certified AI Practitioner
 
 ---
@@ -24,12 +25,12 @@ LoRA in PyTorch with no PEFT library · an agent loop with no framework · GPT-2
 #### 🧰 Stack
 | | |
 |---|---|
+| **Solution architecture** | AWS (Solutions Architect – Associate) · FastAPI services · Redis job queues · PostgreSQL + pgvector · Docker Compose · GitHub Actions CI · Slack, GitHub & Notion API integrations |
+| **Mainframe & modernisation** | COBOL · JCL · CICS · DB2 · VSAM · Oracle · mainframe-to-AWS assessment · COBOL compiler & platform migration · AI-assisted business-logic extraction · data masking (PHI/PII) |
 | **Agentic frameworks** | OpenAI & Claude SDKs · LangGraph · LangChain · Claude tool use (framework-free agent loops) · MCP (FastMCP) · multi-agent orchestration · human-in-the-loop |
 | **Context engineering** | RAG · hybrid retrieval (pgvector + BM25) · query decomposition · corrective RAG · parent–child chunking · agent memory |
 | **Harness engineering** | LLM-as-judge evaluation harnesses · fixed test sets re-run per change · scenario harnesses for agents · guardrails (Guardrails AI, NeMo, Presidio) · Langfuse tracing |
 | **Models** | Claude · OpenAI · Llama 3.2 via Ollama · PyTorch (LoRA, GPT-2 pretraining) |
-| **Solution architecture** | AWS (Solutions Architect – Associate) · FastAPI services · Redis job queues · PostgreSQL · Docker Compose · GitHub Actions CI · Slack, GitHub & Notion API integrations |
-| **Client delivery** | Requirements & design workshops · estimates for proposals · stakeholder demos & sign-off · incident management & SLAs · Scrum |
-| **Enterprise & legacy** | COBOL · JCL · CICS · DB2 · Oracle · mainframe-to-AWS assessment · data masking (PHI/PII) |
+| **Forward-deployed delivery** | On-site with clients · requirements & design workshops · estimates for proposals · stakeholder demos & sign-off · incident management & SLAs · Scrum |
 
 [LinkedIn](https://www.linkedin.com/in/kamalprasath) · pkamalprasath@gmail.com
